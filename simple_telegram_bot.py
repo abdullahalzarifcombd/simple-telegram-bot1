@@ -64,7 +64,7 @@ def get_api_token():
             api_token = f.readline()
         return api_token
     except:
-        assert api_token, 'Whoops! Please provide an api_token.'
+        assert api_token, '7260411231:AAH98ClGS4enKCNx1Nq0u1G5DqWusX7iFiM'
 
 if __name__ == '__main__':
     # SET UP LOGGING
